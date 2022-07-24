@@ -66,8 +66,7 @@ function SalesCard() {
                             </td>
 
                         </tr>
-
-                    </tbody>
+                    
                     <tr><td className="show992">#341</td>
                         <td className="show576">08/07/2022</td>
                         <td>Pessoa 2</td>
@@ -98,6 +97,7 @@ function SalesCard() {
 
                         </td>
                     </tr>
+                </tbody>
                 </table>
             </div>
         </div>
